@@ -1,0 +1,37 @@
+.body{
+	text-align:center;
+}
+.left{
+	text-align:left;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.center{
+	text-align:center;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.right{
+	text-align:right;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.hed{
+	text-align:center;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.head{
+	text-align:center;
+	border: 1px solid darkgrey;
+	}
+.pict{
+	text-align:left;
+	border: 1px solid darkgrey;
+	width:300px;
+	height:180px;
+	padding-right:30px;
+	padding-top:30px;
+	padding-bottom:30px;
+	padding-left:0px;
+}
